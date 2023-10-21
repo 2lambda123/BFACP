@@ -20,7 +20,7 @@
         "anahkiasen/former": "~3.5",
         "dingo/api": "0.8.2",
         "geoip2/geoip2": "~2.0",
-        "guzzlehttp/guzzle": "~5.0",
+        "guzzlehttp/guzzle": "~6.5",
         "laravel/framework": "4.2.*",
         "lavary/laravel-menu": "1.5.0",
         "php": ">=5.5.0",
